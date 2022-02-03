@@ -1,0 +1,4 @@
+*.log
+/fold/
+static/fold
+ab.accdb
